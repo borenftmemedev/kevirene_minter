@@ -127,8 +127,6 @@ function App() {
     if (data.totalSupply < 250) {
       totalCostWei = 0;
     }
-    console.log("Cost: ", totalCostWei);
-    console.log("Gas limit: ", totalGasLimit);
     setFeedback(`Minting your ${CONFIG.NFT_NAME}...`);
     setClaimingNft(true);
     blockchain.smartContract.methods
