@@ -1,10 +1,10 @@
 {
-  "CONTRACT_ADDRESS": "0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
-  "SCAN_LINK": "https://polygonscan.com/token/0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
+  "CONTRACT_ADDRESS": "0xb47D07c90EA53C4abe6FEA311e3bEB3C84F1c10F",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xb47D07c90EA53C4abe6FEA311e3bEB3C84F1c10F",
   "NETWORK": {
-    "NAME": "Ethereum",
+    "NAME": "Rinkeby",
     "SYMBOL": "ETH",
-    "ID": 1
+    "ID": 4
   },
   "NFT_NAME": "Kevirene Dao",
   "SYMBOL": "KD",
@@ -13,6 +13,6 @@
   "DISPLAY_COST": 0.0069,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opensea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/kevirene-dao",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/kevirenedao",
   "SHOW_BACKGROUND": true
 }
