@@ -84,7 +84,7 @@ export const connect = () => {
           dispatch(connectFailed(`Change network to ${CONFIG.NETWORK.NAME}.`));
         }
       } catch (err) {
-        dispatch(connectFailed("Something went wrong."));
+        dispatch(connectFailed("Wallet connection failed."));
       }
     } else {
       dispatch(connectFailed("Install Metamask."));
