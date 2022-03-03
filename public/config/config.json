@@ -1,10 +1,10 @@
 {
-  "CONTRACT_ADDRESS": "0xb47D07c90EA53C4abe6FEA311e3bEB3C84F1c10F",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xb47D07c90EA53C4abe6FEA311e3bEB3C84F1c10F",
+  "CONTRACT_ADDRESS": "0x20596Ca5263FA107C7DD0F1FCFc7e2bBA272b5be",
+  "SCAN_LINK": "https://etherscan.io/address/0x20596Ca5263FA107C7DD0F1FCFc7e2bBA272b5be",
   "NETWORK": {
-    "NAME": "Rinkeby",
+    "NAME": "Ethereum",
     "SYMBOL": "ETH",
-    "ID": 4
+    "ID": 1
   },
   "NFT_NAME": "Kevirene Dao",
   "SYMBOL": "KD",
